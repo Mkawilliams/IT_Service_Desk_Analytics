@@ -1,0 +1,22 @@
+INSERT INTO Technicians (name, team)
+VALUES
+('John Roberts', 'Network'),
+('Maria Gomez', 'Hardware'),
+('Kevin Thompson', 'Software'),
+('Alicia Parker', 'Network'),
+('Samuel Grant', 'Helpdesk'),
+('Brianna Taylor', 'Hardware'),
+('David Johnson', 'Software'),
+('Ryan Thompson', 'Network'),
+('Emily Harris', 'Helpdesk'),
+('Christopher Lee', 'Software'),
+('Jasmine Cooper', 'Hardware'),
+('Michael Brown', 'Network'),
+('Rachel Adams', 'Helpdesk'),
+('Joshua Smith', 'Software'),
+('Olivia Martin', 'Network'),
+('Daniel Scott', 'Hardware'),
+('Sophia White', 'Helpdesk'),
+('Ethan Walker', 'Software'),
+('Victoria King', 'Network'),
+('Brandon Wright', 'Hardware');
